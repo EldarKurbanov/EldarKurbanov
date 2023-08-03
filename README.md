@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EldarKurbanov
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning and will learn all my life
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on fun things
 - 📫 How to reach me? Write me an E-Mail: EldarK@outlook.com
  
