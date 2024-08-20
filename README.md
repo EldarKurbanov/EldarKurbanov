@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @EldarKurbanov
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on fun things
-- 📫 How to reach me? Write me an E-Mail: EldarK@outlook.com
+GoLang developer, teacher at Samsung IT School in Volgograd, Russia.
+My Telegram: https://t.me/eldar_tme
  
 <!-- 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EldarKurbanov)](https://github.com/anuraghazra/github-readme-stats) -->
